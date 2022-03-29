@@ -1,0 +1,55 @@
+{
+    "Organ Failure History": {
+        "Nonoperative": 5,
+        "Emergency": 5,
+        "Elective": 2,
+        "None": 0
+    },
+    "Age": [
+        {
+            "min": 0,
+            "max": 45,
+            "points": 0
+        },
+        {
+            "min": 45,
+            "max": 55,
+            "points": 2
+        },
+        {
+            "min": 75,
+            "max": 999,
+            "points": 6
+        },
+        {
+            "min": 55,
+            "max": 65,
+            "points": 3
+        },
+        {
+            "min": 65,
+            "max": 75,
+            "points": 5
+        },
+        {
+            "min": 55,
+            "max": 65,
+            "points": 3
+        },
+        {
+            "min": 65,
+            "max": 75,
+            "points": 5
+        },
+        {
+            "min": 55,
+            "max": 65,
+            "points": 3
+        },
+        {
+            "min": 65,
+            "max": 75,
+            "points": 5
+        }
+    ]
+}
